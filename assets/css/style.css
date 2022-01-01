@@ -163,7 +163,7 @@ section article div h3{
   display: none;
 }
 .slider {
-  background-color: #0e0e0e;
+  background-color: #fff;
   bottom: 0;
   cursor: pointer;
   left: 0;
@@ -174,7 +174,7 @@ section article div h3{
   border-radius: 34px;
 }
 .slider:before {
-  background-color: #fff;
+  background-color: #0e0e0e;
   bottom: 4px;
   content: "";
   height: 26px;
